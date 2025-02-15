@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure on Bhabuk Kunwar</title>
+    <link>https://bhabukkunwar.com.np/tags/azure/</link>
+    <description>Recent content in Azure on Bhabuk Kunwar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bhabukkunwar.com.np/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying a Node.js App Seamlessly with Azure Container Instances</title>
+      <link>https://bhabukkunwar.com.np/blog/deploying-a-node-js-app-seamlessly-with-azure-container-instances/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://bhabukkunwar.com.np/blog/deploying-a-node-js-app-seamlessly-with-azure-container-instances/</guid>
+      <description>Azure Container Instances is a Platform as a Service (PaaS) offering from Azure that allows you to run and deploy containers without the need of managing the underlying infrastructure.&#xA;Azure Container Registry, on the other hand, provides a secure, private registry for managing container images within the Azure ecosystem.&#xA;In this post, we will first learn how to containerize a Node.js application using Docker, and then deploy it to the cloud using Azure services such as Azure Container Instances (ACI) and Azure Container Registry (ACR).</description>
+    </item>
+  </channel>
+</rss>
